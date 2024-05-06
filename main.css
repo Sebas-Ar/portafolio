@@ -1,0 +1,21 @@
+:root {
+    /* colores principales */
+    --azul-claro: #72A0C3;
+    --azul-oscuro:  #0C3197;
+    --morado: #753D9B;
+    --gris: #2D2828;
+    --verde: #40C351;
+    --beige-claro: #F8F7F1;
+    --beige-oscuro: #787676;
+    --azul-linkedin: #0e76a8;
+
+
+    /* colores del gradiente */
+    --azul-1: #072D62;
+    --azul-2: #0F5CC8;
+    --azul-3: #0F5CC8;
+}
+
+body {
+    font-family: Helvetica, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
