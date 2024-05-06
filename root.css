@@ -11,9 +11,9 @@
 
 
     /* colores del gradiente */
-    --azul-1: #072D62;
-    --azul-2: #0F5CC8;
-    --azul-3: #0F5CC8;
+    --azul-1: #072D62; /* 20% */
+    --azul-2: #0F5CC8; /* 90% */
+    --azul-3: #0F5CC8; /* 100% */
 }
 
 body {
