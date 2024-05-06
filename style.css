@@ -34,6 +34,7 @@ header {
 
 /* Contenido principal - presentacion */
 main {
+    min-height: 800px;
     padding: 0 100px;
     position: relative;
     color: white;
